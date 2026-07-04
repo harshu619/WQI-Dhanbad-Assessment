@@ -1,5 +1,3 @@
-# WQI-Dhanbad-Assessment
-Environmental Engineering project that assesses the Water Quality Index (WQI) of the Damodar River using the Weighted Arithmetic Index Method. Includes laboratory analysis, WQI calculations, graphical interpretation, and water quality classification based on BIS and CPCB standards.
 💧 Water Quality Index (WQI) Assessment of the Damodar River, Dhanbad
 
 📌 Project Overview
@@ -100,27 +98,6 @@ The report includes:
 - Parameter comparison across sampling stations
 - WQI comparison graph
 - Percentage contribution of each parameter to the final WQI
-
----
-
-📂 Repository Structure
-
-Water-Quality-Index-Assessment/
-│
-├── Report/
-│   └── WQI_Report.pdf
-│
-├── Figures/
-│   ├── Figure1.png
-│   ├── Figure2.png
-│   └── Figure3.png
-│
-├── Data/
-│   └── Observation_Data.xlsx
-│
-├── README.md
-└── LICENSE
-
 ---
 
 📚 Standards Followed
